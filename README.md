@@ -20,6 +20,7 @@ All of your Discord friends need to know that you are currently on a Linux syste
 
 ### Installation
 This is on the ***AUR*** yet, because of course it is. 
+https://aur.archlinux.org/packages/fossglaze-git
 
 Guide (you should know this y'know?):
 `yay -S fossglaze`
